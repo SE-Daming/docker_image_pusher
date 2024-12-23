@@ -7,3 +7,4 @@ xhofe/alist:latest
 redis:latest
 nacos/nacos-server
 mysql:latest
+mongo
