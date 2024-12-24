@@ -9,3 +9,4 @@ nacos/nacos-server
 mysql:latest
 mongo
 rabbitmq:3.8-management
+openjdk:8-jdk-alpine
