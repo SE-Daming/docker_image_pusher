@@ -8,4 +8,4 @@ redis:latest
 nacos/nacos-server
 mysql:latest
 mongo
-rabbitmq
+rabbitmq:management
